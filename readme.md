@@ -42,7 +42,7 @@ Here is the list of available roadmaps with more being actively worked upon.
 - [Android Roadmap](https://roadmap.sh/android)
 - [Python Roadmap](https://roadmap.sh/python)
 - [Go Roadmap](https://roadmap.sh/golang)
-- [Java Roadmap](https://roadmap.sh/java)
+- [Java Roadmap](https://roadmap.sh/java) Updating...
 - [Design System Roadmap](https://roadmap.sh/design-system)
 - [DBA Roadmap](https://roadmap.sh/postgresql-dba)
 - [Blockchain Roadmap](https://roadmap.sh/blockchain)
